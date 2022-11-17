@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(255, 205, 234);
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+.entrar{
+    border: 2px solid black;
+    padding: 10px;
+}
